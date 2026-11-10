@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://servankaradag.dev"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://x.com/servankaradag"><img src="https://img.shields.io/badge/X%2FTwitter-white?logo=x&style=flat&logoColor=gray" /></a>
+  <a href="https://x.com/servankaradag"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
   <a href="https://linkedin.com/in/servankaradag"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:servankaradag@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
